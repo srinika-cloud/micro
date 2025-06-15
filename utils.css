@@ -1,0 +1,30 @@
+/* Utility Classes */
+
+/* Margin */
+.m-0 { margin: 0; }
+.m-1 { margin: 4px; }
+.m-2 { margin: 8px; }
+.m-3 { margin: 16px; }
+.m-4 { margin: 32px; }
+
+/* Padding */
+.p-0 { padding: 0; }
+.p-1 { padding: 4px; }
+.p-2 { padding: 8px; }
+.p-3 { padding: 16px; }
+.p-4 { padding: 32px; }
+
+/* Text Alignment */
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+/* Font Colors */
+.text-primary { color: #3498db; }
+.text-secondary { color: #2ecc71; }
+.text-danger { color: #e74c3c; }
+
+/* Background Colors */
+.bg-primary { background-color: #3498db; }
+.bg-secondary { background-color: #2ecc71; }
+.bg-danger { background-color: #e74c3c; }
